@@ -4,6 +4,7 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 16px;
   flex-grow: 1;
+  padding: 16px;
 }
 
 .cards-container {
@@ -14,4 +15,17 @@
   height: 100vh;
   position: sticky;
   top: 0;
+}
+
+@media (max-width: 920px) {
+  .cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
 }
