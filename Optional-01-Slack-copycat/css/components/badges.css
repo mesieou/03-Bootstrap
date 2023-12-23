@@ -1,0 +1,11 @@
+.entity-button {
+  color: white;
+  background: #585257;
+  padding: 6px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.text-muted {
+  font-weight: bold;
+}
