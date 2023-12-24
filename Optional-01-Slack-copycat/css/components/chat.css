@@ -1,0 +1,14 @@
+design.title {
+  color: #271C25;
+}
+
+.avatar-square {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.user-and-message #name-user {
+  font-weight: bold;
+}

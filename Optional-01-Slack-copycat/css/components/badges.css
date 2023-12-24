@@ -25,3 +25,11 @@
   width: 8px;
   margin-right: 8px;
 }
+
+.general-badge p {
+  color: #AAA4A9;
+}
+
+.design-badge p {
+  color: #271C25;
+}
