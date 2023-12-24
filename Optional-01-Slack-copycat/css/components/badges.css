@@ -9,3 +9,19 @@
 .text-muted {
   font-weight: bold;
 }
+
+.active-circle {
+  background-color: rgb(21, 171, 21);
+  border-radius: 50%;
+  height: 8px;
+  width: 8px;
+  margin-right: 8px;
+}
+
+.non-active-circle{
+  background-color: #AAA4A9;
+  border-radius: 50%;
+  height: 8px;
+  width: 8px;
+  margin-right: 8px;
+}
